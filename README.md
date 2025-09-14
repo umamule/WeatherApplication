@@ -82,6 +82,7 @@ In short, this application helps users quickly know the weather of their city (o
 
 ## deployment
 
-[https://weather-application-ohw3.vercel.app/
-](url)
- Made with ❤️ from Uma
+[https://weather-application-ohw3.vercel.app](url)
+
+
+Made with ❤️ from Uma
