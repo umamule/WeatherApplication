@@ -6,7 +6,8 @@ Users can search for any city and view real-time weather information such as **t
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png)
+<img src="./img1.png" width="700"/>
+<img src="./image.png" width="700"/>
 
 *(Replace `screenshot.png` with the actual file name of your app screenshot. Put it in your project root.)*
 
