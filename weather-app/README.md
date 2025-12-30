@@ -9,7 +9,7 @@ Users can search for any city and view real-time weather information such as **t
 <img src="./img1.png" width="700"/>
 <img src="./image.png" width="700"/>
 
-*(Replace `screenshot.png` with the actual file name of your app screenshot. Put it in your project root.)*
+
 
 ---
 
@@ -32,6 +32,7 @@ Users can search for any city and view real-time weather information such as **t
 ---
 
 ## 📂 Project Structure
+```
 weather-app/
 ┣ public/
 ┃ ┗ weather-bg.jpg
@@ -45,16 +46,17 @@ weather-app/
 ┣ package.json
 ┣ README.md
 ┗ screenshot.png
+```
 
 ---
 
 ## 🔑 Setup & Installation
-
-1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+1. Clone the repository:
 
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+```
 ---
 
 👉 You just need to:
@@ -80,4 +82,5 @@ In short, this application helps users quickly know the weather of their city (o
 ## Deployment
 [https://weather-application-ohw3.vercel.app/](url)
 
-Made With ❤️ from Uma
+
+<strong>Made With ❤️ from Uma</strong>
